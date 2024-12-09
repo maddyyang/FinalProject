@@ -32,3 +32,11 @@ footer {
     padding: 1rem;
     background-color: #000000;
 }
+
+.resumephoto.heic {
+    max-width: 300px; 
+    height: auto; 
+    border-radius: 10px; 
+    display: block; 
+    margin: 1rem auto; 
+}
