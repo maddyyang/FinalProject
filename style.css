@@ -34,8 +34,8 @@ footer {
 }
 
 .resumephoto.heic {
-    max-width: 300px; 
-    height: auto; 
+    max-width: 100px; 
+    height: 100px; 
     border-radius: 10px; 
     display: block; 
     margin: 1rem auto; 
